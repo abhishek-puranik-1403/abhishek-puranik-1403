@@ -1,5 +1,7 @@
 About-Myself
-A short description of who I am :) Hello All, 👋, I am Abhishek Puranik! I am pursuing Masters in Business Analytics fom the University of Texas at Arlington. I am currently working as a Graduate Research Assistant for the College of Business at UTA.
+
+
+Hello All, 👋, I am Abhishek Puranik! I am pursuing Masters in Business Analytics fom the University of Texas at Arlington. I am currently working as a Graduate Research Assistant for the College of Business at UTA.
 
 
 
